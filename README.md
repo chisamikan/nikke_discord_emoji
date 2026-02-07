@@ -6,6 +6,9 @@
 ### 属性 - Code
 <img alt="code_fire" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/code_fire.png" width="32px"> <img alt="code_irom" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/code_iron.png" width="32px"> <img alt="code_electric" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/code_electric.png" width="32px"> <img alt="code_wind" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/code_wind.png" width="32px"> <img alt="code_water" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/code_water.png" width="32px">
 
+### 協同作戦 - CO-OP
+<img alt="coop" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/coop_fire.png" width="32px"> <img alt="coop" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/coop_iron.png" width="32px"> <img alt="coop" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/coop_electric.png" width="32px"> <img alt="coop" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/coop_wind.png" width="32px"> <img alt="coop" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/coop_water.png" width="32px">
+
 ### 企業 - Manufacturers
 <img alt="manufacturers_elysion" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/manufacturers_elysion.png" width="32px"> <img alt="manufacturers_missilis" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/manufacturers_missilis.png" width="32px"> <img alt="manufacturers_tetra" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/manufacturers_tetra.png" width="32px"> <img alt="manufacturers_pilgrim" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/manufacturers_pilgrim.png" width="32px"> <img alt="manufacturers_abnormal" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/manufacturers_abnormal.png" width="32px">
 
@@ -15,9 +18,6 @@
 
 ### Doro
 <img alt="doro" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/doro.png" width="32px"> <img alt="doro_thumbsup" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/doro_thumbsup.png" width="32px">
-
-### その他 - Others
-<img alt="coop" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/coop.png" width="32px">
 
 ## これは何？ - What's this?
 [Misskey NIKKE部](https://misskey.io/channels/9bdi8ff7lc)のDiscordサーバー用に作ったドット絵ライクの絵文字です。  
