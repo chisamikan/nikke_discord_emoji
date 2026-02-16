@@ -19,8 +19,11 @@
 ### Doro
 <img alt="doro" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/doro.png" width="32px"> <img alt="doro_thumbsup" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/doro_thumbsup.png" width="32px">
 
+### 例の表情 - Faces
+<img alt="face_anis" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/face_anis.png" width="32px"> <img alt="face_crown" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/face_crown.png" width="32px"> <img alt="face_shfty" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/face_shfty.png" width="32px">
+
 ### その他 - Others
-<img alt="kokodesu" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/kokodesu.png" width="32px"> <img alt="welcome_to_ark" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/welcome_to_ark.png" width="32px"> <img alt="face_anis" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/face_anis.png" width="32px"> <img alt="face_crown" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/face_crown.png" width="32px"> <img alt="blablalink" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/blablalink.png" width="32px">
+<img alt="kokodesu" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/kokodesu.png" width="32px"> <img alt="welcome_to_ark" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/welcome_to_ark.png" width="32px"> <img alt="blablalink" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/blablalink.png" width="32px">
 
 ## これは何？ - What's this?
 [Misskey NIKKE部](https://misskey.io/channels/9bdi8ff7lc)のDiscordサーバー用に作ったドット絵ライクの絵文字です。  
