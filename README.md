@@ -17,7 +17,7 @@
 <img alt="weapons_ar" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/weapons_ar.png" width="32px"> <img alt="weapons_sr" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/weapons_sr.png" width="32px"> <img alt="weapons_rl" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/weapons_rl.png" width="32px">
 
 ### Doro
-<img alt="doro" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/doro.png" width="32px"> <img alt="doro_thumbsup" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/doro_thumbsup.png" width="32px">
+<img alt="doro" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/doro.png" width="32px"> <img alt="doro_thumbsup" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/doro_thumbsup.png" width="32px"> <img alt="doro_eating" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/doro_eating.png" width="32px"> <img alt="doro_shopping" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/doro_shopping.png" width="32px">
 
 ### 例の表情 - Faces
 <img alt="face_anis" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/face_anis.png" width="32px"> <img alt="face_crown" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/face_crown.png" width="32px"> <img alt="face_shfty" src="https://raw.githubusercontent.com/chisamikan/nikke_discord_emoji/refs/heads/main/emojis/face_shfty.png" width="32px">
