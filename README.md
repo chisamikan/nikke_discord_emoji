@@ -23,7 +23,7 @@
 <img alt="face_anis" src="/emojis/face_anis.png" width="32px"> <img alt="face_crown" src="/emojis/face_crown.png" width="32px"> <img alt="face_shfty" src="/emojis/face_shfty.png" width="32px">
 
 ### その他 - Others
-<img alt="kokodesu" src="/emojis/kokodesu.png" width="32px"> <img alt="welcome_to_ark" src="/emojis/welcome_to_ark.png" width="32px"> <img alt="blablalink" src="/emojis/blablalink.png" width="32px"> <img alt="jewel" src="/emojis/jewel.png" width="32px"> <img alt="custommodule" src="/emojis/custommodule.png" width="32px">
+<img alt="kokodesu" src="/emojis/kokodesu.png" width="32px"> <img alt="welcome_to_ark" src="/emojis/welcome_to_ark.png" width="32px"> <img alt="blablalink" src="/emojis/blablalink.png" width="32px"> <img alt="jewel" src="/emojis/jewel.png" width="32px"> <img alt="custommodule" src="/emojis/custommodule.png" width="32px"> <img alt="soloraid" src="/emojis/soloraid.png" width="32px">
 
 ## これは何？ - What's this?
 [Misskey NIKKE部](https://misskey.io/channels/9bdi8ff7lc)のDiscordサーバー用に作ったドット絵ライクの絵文字です。  
